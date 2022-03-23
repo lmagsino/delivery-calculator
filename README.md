@@ -10,5 +10,5 @@ https://drive.google.com/file/d/11UA5gJmNSVZ28icNLE8sYWBiMpwt_KI6/view?usp=shari
 
 Testing:
 * Run `java -jar delivery-0.0.1-SNAPSHOT.jar`
-* Use Postman to access: http://localhost:8080/delivery/cost?weight=9&height=20&width=7&length=9&voucherCode=MYNT
+* Use Postman. Sample request: http://localhost:8080/delivery/cost?weight=9&height=30&width=7&length=9&voucherCode=MYNT
 
